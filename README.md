@@ -1,3 +1,7 @@
+Gestion evenements effectuée  avec symfony en tant que backend et react en tant que front
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
